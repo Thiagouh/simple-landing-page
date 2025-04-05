@@ -27,6 +27,7 @@ The **Foodie's Paradise** landing page features:
 
 ## How to View the Project
 
-1. Clone the repository:
+1. Clone the repository.
+
    ```bash
    git clone <repository-URL>
